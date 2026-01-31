@@ -1,0 +1,7 @@
+type suntrold, domain;
+permissive suntrold;
+type suntrold_exec, exec_type, file_type;
+
+# suntrol daemon
+init_daemon_domain(suntrold)
+unconfined_domain(suntrold)

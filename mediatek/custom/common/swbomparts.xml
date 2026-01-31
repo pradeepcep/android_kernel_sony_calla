@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<swbomparts>
+<part>
+    <!-- HDCP 2.x Licensed Constant (needed for both transmitter/source and receiver/sink) -->
+    <spaceid>1257-1815</spaceid>
+    <type>software</type>
+</part>
+<part>
+    <!-- Essential Patent MP3 Full Codec -->
+    <spaceid>1238-7352</spaceid>
+    <type>software</type>
+</part>
+<part>
+    <!-- Essential Patent MPEG 4 -->
+    <spaceid>1238-7357</spaceid>
+    <type>software</type>
+</part>
+<part>
+    <!-- Essential Patent MPEG 4 -->
+    <spaceid>1238-7354</spaceid>
+    <type>software</type>
+</part>
+<part>
+    <!-- Essential Patent MPEG 4 Audio (AAC) -->
+    <spaceid>1238-6450</spaceid>
+    <type>software</type>
+</part>
+<part>
+    <!-- Essential Patent MPEG H264/AVC -->
+    <spaceid>1238-7133</spaceid>
+    <type>software</type>
+</part>
+<part>
+    <!-- Multimedia AV SW MPEG2 System (MPEG2-TS)-->
+    <spaceid>1252-5346</spaceid>
+    <type>software</type>
+</part>
+<part>
+    <!-- PC SW PC-SUITE (PC-SW)-->
+    <spaceid>1238-7056</spaceid>
+    <type>software</type>
+    <filesystemidentifier>/system/etc/dop.iso</filesystemidentifier>
+</part>
+<part>
+    <!-- Multimedia AV SW Aricent Multimedia AV SW Multimedia Processing Library -->
+    <spaceid>1248-1470</spaceid>
+    <type>software</type>
+    <filesystemidentifier>/system/lib/libmtpip.so</filesystemidentifier>
+</part>
+<part>
+    <!-- 1279-2171: Essential Patent MS WMA decode including ASF Read
+         Provided by Qualcomm as proprietary part of platform.
+    -->
+    <spaceid>1279-2171</spaceid>
+    <type>software</type>
+</part>
+<part>
+    <!-- 1290-2264: Multimedia Imaging SW Morpho 2015 Camera Superior Auto Feature Package
+         and Super Zoom
+    -->
+    <spaceid>1290-2264</spaceid>
+    <type>software</type>
+</part>
+<part>
+    <!-- 1292-1708: Security and DRM SW Secure application environment using Trustonic TEE SDK
+    -->
+    <spaceid>1292-1708</spaceid>
+    <type>software</type>
+</part>
+</swbomparts>

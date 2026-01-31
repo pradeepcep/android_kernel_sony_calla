@@ -1,0 +1,17 @@
+/*
+ * Copyright (C) 2014 Sony Mobile Communications AB.
+ * All rights, including trade secret rights, reserved.
+ */
+ 
+#ifndef _CFG_PROJ_ID_D_H
+#define _CFG_PROJ_ID_D_H
+
+FILE_PROJ_ID_STRUCT proj_id_default =
+{
+   {0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,
+       0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0
+   }
+};
+
+#endif
+
